@@ -1,2 +1,3 @@
 # velocity
-velocity: it's important!
+
+## move a ball across the screen!
